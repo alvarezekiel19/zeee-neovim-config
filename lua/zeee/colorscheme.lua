@@ -42,4 +42,8 @@ return {
       },
     },
   },
+  {
+    vim.api.nvim_set_hl(0, 'LineNrAbove', { fg = '#FFBF81' }),
+    vim.api.nvim_set_hl(0, 'LineNrBelow', { fg = '#FFBF81' }),
+  },
 }
