@@ -1,6 +1,7 @@
 require 'zeee.set'
 require 'zeee.remap'
 require 'zeee.colorscheme'
+require 'zeee.jupynium'
 
 -- Set <space> as the leader key
 -- See `:help mapleader`
